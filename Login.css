@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'PT Sans Narrow', sans-serif;
-    background-color: black;
+    background-color: red;
 }
 label,input,a{
     display: block;
