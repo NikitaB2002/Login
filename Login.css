@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: rgb(20, 156, 210)
+}
+label,input,a{
+    display: block;
+    margin-bottom: 10px;
+
+}
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+button{
+    margin-bottom: 10px;
+}
+form{
+    background-color: aqua ;
+    width: 25%;
+    border-radius: 5px;
+    padding: 20px;
+    color: black;
+}
+label{
+    font-size: 20px;
+}
+input{
+    width: 100%;
+    height: 25px;
+    border-radius: 5px;
+    /* border: none; */
+    padding-left: 15px;
+}
+a{
+    text-decoration: none;
+    color: purple;
+}
+#new{
+    text-align: center;
+
+}
+#but{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    width: 25%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(7, 69, 94);
+    color: white;
+    font-size: 15px;
+}
+#cancel{
+    background-color: red;
+}
+
